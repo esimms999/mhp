@@ -3,7 +3,7 @@
 <br>
 <br>
 
-#### The `mhp` package provides tools to simulate the Monty Hall problem with 3 or more doors, including a Shiny app for interactive exploration.
+The `mhp` package provides tools to simulate the Monty Hall problem with 3 or more doors, including a Shiny app for interactive exploration.
 
 ## Installation
 
