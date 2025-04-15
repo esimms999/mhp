@@ -17,3 +17,4 @@ Suggests:
     roxygen2,
     styler,
     lintr
+RoxygenNote: 7.3.2

@@ -13,5 +13,7 @@ Launches a Shiny app.
 Launches an interactive Shiny app for Monty Hall simulations.
 }
 \examples{
+\donttest{
 if (interactive()) run_mhp_app()
+}
 }
