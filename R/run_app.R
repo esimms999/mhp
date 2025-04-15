@@ -1,12 +1,8 @@
 #' Run Monty Hall Shiny App
 #'
-#' Launches an interactive Shiny app for Monty Hall simulations.
+#' Launches an interactive Shiny app for Monty Hall simulations. This can
+#' be run with: if (interactive()) run_mhp_app()
 #'
-#' @return Launches a Shiny app.
-#' @examples
-#' \donttest{
-#' if (interactive()) run_mhp_app()
-#' }
 #' @export
 run_mhp_app <- function() {
   ui <- bslib::page_sidebar(

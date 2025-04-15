@@ -6,14 +6,7 @@
 \usage{
 run_mhp_app()
 }
-\value{
-Launches a Shiny app.
-}
 \description{
-Launches an interactive Shiny app for Monty Hall simulations.
-}
-\examples{
-\donttest{
-if (interactive()) run_mhp_app()
-}
+Launches an interactive Shiny app for Monty Hall simulations. This can
+be run with: if (interactive()) run_mhp_app()
 }
