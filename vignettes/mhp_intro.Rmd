@@ -1,0 +1,13 @@
+---
+title: "Introduction to mhp Package"
+output: html_document
+vignette: >
+  %\VignetteIndexEntry{Introduction to mhp}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(mhp)
+```

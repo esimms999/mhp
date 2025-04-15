@@ -1,0 +1,6 @@
+url: https://esimms999.github.io/mhp
+template:
+  bootstrap: 5
+home:
+  sidebar:
+    structure: [links, license, citation]

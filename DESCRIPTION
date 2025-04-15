@@ -1,0 +1,19 @@
+Package: mhp
+Title: Monty Hall Problem Simulator with Shiny
+Version: 0.1.0
+Authors@R: c(person("esimms999", email = "your.email@example.com", role = c("aut", "cre")), person("GrokAI", email = "grok@xai.com", role = "ctb", comment = "AI assistant from xAI"))
+Description: A Shiny app and functions to simulate the Monty Hall problem with 3 or more doors.
+URL: https://esimms999.github.io/mhp
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: 
+    R (>= 4.4.2),
+    shiny,
+    bslib
+Suggests:
+    testthat (>= 3.0.0),
+    pkgdown,
+    rmarkdown,
+    roxygen2,
+    styler,
+    lintr
